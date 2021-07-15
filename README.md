@@ -8,6 +8,8 @@ Você pode escolher e fazer este teste na linguagem que quiser, ou até mais de 
 
 Para enviar a solução, crie um repositório privado no seu github e compartilhe com o usuario @devbcrcx, e envie um email para dev@bcrcx.com com o link do repositório.
 
+Resolva os desafios que se sentir confortável, você não precisa resolver todos.
+
 ## Desafios
 - [Fibonacci](1.md)
 - [Fatorial](2.md)
