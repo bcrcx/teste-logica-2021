@@ -13,7 +13,7 @@ Para enviar a solução, crie um repositório privado no seu github e compartilh
 A resposta para cada um dos desafios deve estar em um arquivo com o numero do desafio. Exemplo:
 ```
 1.java  => Desafio 1 em Java
-2.c     => Desasio 2 em C
+2.c     => Desafio 2 em C
 3.py    => Desafio 3 em Python
 4.js    => Desafio 4 em JavaScript/Nodejs
 etc.
