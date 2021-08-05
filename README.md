@@ -40,5 +40,4 @@ Resolva os desafios que se sentir confortável, você não precisa resolver todo
 - [Como usar o github?](https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/)
 - [Como compartilhar um repositório do github?](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - [Dúvidas sobre o teste técnico?](mailto:dev@bcrcx.com)
-- 
 
